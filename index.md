@@ -1,8 +1,5 @@
 ## WebSite Materia POE
 
-Practica en clase
-
-## Prueba
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
